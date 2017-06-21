@@ -1,0 +1,113 @@
+ 
+   **************************************************************************
+   *       Model code for a general description of fission observables      *
+   *                                 G E F                                  *
+   *                           Version 2016/1.2                             *
+   * Copyright 2009,2010,2011,2012,2013,2014,2015,2016                      *
+   *          K.-H. Schmidt and B. Jurado                                  *
+   **************************************************************************
+ 
+Subfolder /ctl created for output of GEF.
+Subfolder /out created for output of GEF.
+Subfolder /dmp created for output of GEF.
+File 'file.in' found.
+Manual input suspended, input will be taken from file.
+Sequence of nuclei given in gef_input will be calculated!
+ 
+Fission barrier of CN (Z= 92, A= 236):
+Macrosc. barrier =  4.51 MeV
+Inner saddle =  5.76 MeV, outer saddle =  5.73 MeV
+exp. Mass = -1790.408 MeV
+Lymass    = -1789.536 MeV
+G.S.Shell effect (Moeller) = -1.3 MeV, G.S.Shell effect (exp,TF) = -1.63 MeV
+S_n(exp.) =  6.54541 MeV
+CN: Z =  92, A =  236, E =  2.53e-08 MeV
+ 
+Please wait ... code is running.
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:10
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:11
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:13
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:14
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:17
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:17
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:20
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:21
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:24
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:25
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:28
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:28
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:31
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:31
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:34
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:35
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:38
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:39
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:42
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:42
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:45
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:46
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:49
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:49
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:52
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:52
+ 
+Calculation with perturbed model parameters.
+ 14286 events will be calculated.
+ 7143 Events ( 50% ) of  14286 events processed at 19.06.2017, 15:23:55
+ 14286 Events ( 100% ) of  14286 events processed at 19.06.2017, 15:23:55
+ 
+Calculation with nominal model parameters.
+ 200000 events will be calculated.
+ 20000 Events ( 10% ) of  200000 events processed at 19.06.2017, 15:23:59
+ 40000 Events ( 20% ) of  200000 events processed at 19.06.2017, 15:24:01
+ 60000 Events ( 30% ) of  200000 events processed at 19.06.2017, 15:24:02
+ 80000 Events ( 40% ) of  200000 events processed at 19.06.2017, 15:24:03
+ 100000 Events ( 50% ) of  200000 events processed at 19.06.2017, 15:24:05
+ 120000 Events ( 60% ) of  200000 events processed at 19.06.2017, 15:24:06
+ 140000 Events ( 70% ) of  200000 events processed at 19.06.2017, 15:24:07
+ 160000 Events ( 80% ) of  200000 events processed at 19.06.2017, 15:24:09
+ 180000 Events ( 90% ) of  200000 events processed at 19.06.2017, 15:24:10
+ 200000 Events ( 100% ) of  200000 events processed at 19.06.2017, 15:24:12
+ 
+Output is written to file out\GEF_92_236_n.dat.
+ 
+Subfolder \dmp\Z92_A236_n_E2.53e-08MeV created.
